@@ -63,6 +63,7 @@ Management guide:
     If a file is replayed in the storage channel and a message is sent, that message will be sent to the sender of the file
     If a file is edited in the storage channel and replaced by another file, the link will download the new file
     If a user is blocked from the support channel, he can no longer use the robot
+Hello
 
 # Donate:
 
